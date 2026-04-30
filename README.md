@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Daily Pokemon ASCII](https://readme-pokemon-ascii.vercel.app/api)
+[![Daily Pokemon ASCII](https://readme-pokemon-ascii.vercel.app/api)](https://readme-pokemon-ascii.vercel.app/api)
 
 <!--
 **lengweih/lengweih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
