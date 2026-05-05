@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://readme-pokemon-ascii.vercel.app/">
-    <img src="https://readme-pokemon-ascii.vercel.app/api" alt="Daily Pokemon ASCII" />
+    <img src="https://readme-pokemon-ascii.vercel.app/" alt="Daily Pokemon ASCII" />
   </a>
 </p>
 
