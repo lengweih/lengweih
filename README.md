@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <a href="https://readme-pokemon-ascii.vercel.app/">
+  <a href="https://github.com/lengweih/readme-pokemon-ascii">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-pokemon-ascii.vercel.app/?theme=dark">
       <source media="(prefers-color-scheme: light)" srcset="https://readme-pokemon-ascii.vercel.app/?theme=light">
